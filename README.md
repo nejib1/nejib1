@@ -25,17 +25,37 @@ I design and build **robust data systems** — from large-scale ETL/ELT pipeline
 | **[Offres-Travail.com](https://offres-travail.com)** 🏆 | Largest job listings aggregator in France by volume | Big Data, Search, Automation |
 | **[Free-LLM.com](https://free-llm.com)** ✨ | World directory of 40+ free LLM API providers | Directory, Community |
 | **[SummarizeAPI.com](https://summarizeapi.com)** ✨ | AI text summarization REST API, multilingual | NLP, LLM, API |
+| **[CategorizeAPI.com](https://categorizeapi.com)** ✨ | AI text/content categorization REST API, multi-level classification | NLP, LLM, API |
 | **[PDF-Summarize.com](https://pdf-summarize.com)** ✨ | Free AI-powered PDF summarizer, 15+ languages | NLP, Document Analysis |
+| **[TextPerfector.com](https://textperfector.com)** ✨ | AI-powered writing & grammar correction platform | NLP, LLM |
 | **[TheBookee.net](https://thebookee.net)** | ElasticSearch PDF engine with AI-generated summaries | OCR, ML, Search |
 | **[Similars.net](https://similars.net)** | Semantic clustering engine indexing 14M+ websites | Big Data, NLP |
 | **[Rankeez.com](https://rankeez.com)** | Real-time SEO analytics with predictive ML on 32M+ sites | Predictive ML, Big Data |
 | **[Lizarder.com](https://lizarder.com)** | Deep learning translation engine, 40+ languages, 50M+ translations | Deep Learning, NLP |
 | **[TrADuck.com](https://traduck.com)** ✨ | High-accuracy AI translation for 35+ languages | AI, NLP |
+| **[Pylon-Monitor.com](https://pylon-monitor.com)** | Standalone WiFi device for remote Pylontech battery monitoring — JSON API, MQTT & native Home Assistant integration | IoT, Hardware, API |
 | **[XeConvert.com](https://xeconvert.com)** | Currency converter with predictive analytics, 170+ currencies | FinTech, Real-time |
 | **[Cables-Solaires.com](https://cables-solaires.com)** 🏆 | E-commerce for solar battery cables | E-commerce |
 | **[L-Actualite.com](http://l-actualite.com)** ✨ | AI-curated French news with trend detection | IA, Big Data, NLP |
 | **[Langs.education](https://langs.education)** | Adaptive AI language learning platform | EdTech, NLP |
 | **[StatMemory.com](https://statmemory.com)** | Full web analytics: traffic, SEO, WHOIS, hosting | Data Mining, Analytics |
+
+---
+
+## 🔌 AI & API Products
+
+A family of standalone AI-powered REST APIs and micro-SaaS tools, each shipping its own docs, pricing and developer-first integration — the applied side of the data/AI work above.
+
+| API product | What it does |
+|---|---|
+| **[SummarizeAPI.com](https://summarizeapi.com)** | Multilingual AI text summarization, REST endpoint |
+| **[CategorizeAPI.com](https://categorizeapi.com)** | AI text/content classification & categorization, REST endpoint |
+| **[TextPerfector.com](https://textperfector.com)** | AI grammar & writing correction |
+| **[TrADuck.com](https://traduck.com)** | AI translation, 35+ languages |
+| **[PDF-Summarize.com](https://pdf-summarize.com)** | AI PDF summarization, 15+ languages |
+| **[Similars.net](https://similars.net)** | Website-similarity API backed by a 14M+ site semantic index |
+| **[Rankeez.com](https://rankeez.com)** | SEO ranking analytics API with predictive ML |
+| **[Free-LLM.com](https://free-llm.com)** | Directory & comparison API for 40+ free LLM providers |
 
 ---
 
@@ -62,7 +82,7 @@ I design and build **robust data systems** — from large-scale ETL/ELT pipeline
 
 ```
 15+   years of experience
-22+   active projects
+25+   active projects
 10M+  users reached
 50+   technologies mastered
 170+  currencies tracked in real-time
