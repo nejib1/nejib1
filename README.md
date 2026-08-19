@@ -23,6 +23,8 @@ I design and build **robust data systems** — from large-scale ETL/ELT pipeline
 | Project | Description | Stack |
 |---|---|---|
 | **[Offres-Travail.com](https://offres-travail.com)** 🏆 | Largest job listings aggregator in France by volume | Big Data, Search, Automation |
+| **[Pylon-Monitor.com](https://pylon-monitor.com)** | Standalone WiFi device for remote Pylontech battery monitoring — JSON API, MQTT & native Home Assistant integration | IoT, Hardware, API |
+| **[Cables-Solaires.com](https://cables-solaires.com)** 🏆 | E-commerce for solar battery cables | E-commerce |
 | **[Free-LLM.com](https://free-llm.com)** ✨ | World directory of 40+ free LLM API providers | Directory, Community |
 | **[SummarizeAPI.com](https://summarizeapi.com)** ✨ | AI text summarization REST API, multilingual | NLP, LLM, API |
 | **[CategorizeAPI.com](https://categorizeapi.com)** ✨ | AI text/content categorization REST API, multi-level classification | NLP, LLM, API |
@@ -33,12 +35,20 @@ I design and build **robust data systems** — from large-scale ETL/ELT pipeline
 | **[Rankeez.com](https://rankeez.com)** | Real-time SEO analytics with predictive ML on 32M+ sites | Predictive ML, Big Data |
 | **[Lizarder.com](https://lizarder.com)** | Deep learning translation engine, 40+ languages, 50M+ translations | Deep Learning, NLP |
 | **[TrADuck.com](https://traduck.com)** ✨ | High-accuracy AI translation for 35+ languages | AI, NLP |
-| **[Pylon-Monitor.com](https://pylon-monitor.com)** | Standalone WiFi device for remote Pylontech battery monitoring — JSON API, MQTT & native Home Assistant integration | IoT, Hardware, API |
 | **[XeConvert.com](https://xeconvert.com)** | Currency converter with predictive analytics, 170+ currencies | FinTech, Real-time |
-| **[Cables-Solaires.com](https://cables-solaires.com)** 🏆 | E-commerce for solar battery cables | E-commerce |
 | **[L-Actualite.com](http://l-actualite.com)** ✨ | AI-curated French news with trend detection | IA, Big Data, NLP |
 | **[Langs.education](https://langs.education)** | Adaptive AI language learning platform | EdTech, NLP |
 | **[StatMemory.com](https://statmemory.com)** | Full web analytics: traffic, SEO, WHOIS, hosting | Data Mining, Analytics |
+| **[NejibTech.com](https://nejibtech.com)** | One of the only French stores fully dedicated to AZERTY French-Arabic bilingual keyboards & mice | E-commerce, Niche Market |
+| **[Latest-Headlines.com](https://latest-headlines.com)** ✨ | AI-curated US news platform with real-time trend analysis | AI, Content Generation, News |
+| **[Tunisie.me](http://tunisie.me)** ✨ | Tunisian news portal using ML to personalize content by reader interest | ML, Data Processing, News |
+| **[ResterConnecte.com](https://resterconnecte.com)** ✨ | Daily educational content platform (health, cooking, tech…), AI-generated & auto-validated articles | Content Generation, Automation |
+| **[Esperance-De-Tunis.com](https://esperance-de-tunis.com)** ✨ | Sports platform with a custom ML model for real-time performance analytics, trained on 15+ years of data | Custom ML, Real-time Analytics |
+| **[Linux-Alternative.com](https://linux-alternative.com)** | Recommendation engine for Linux alternatives to Windows software | Recommendation System, ML |
+| **[FrContext.com](https://frcontext.com)** ✨ | Free multilingual encyclopedia, 14 languages, several hundred thousand entries | Encyclopedia, Multilingual, Big Data |
+| **[PDF-Downloads.net](https://pdf-downloads.net)** | Search engine specialized in educational PDF documents | Search Engine, Education |
+| **[Tarjma.com](https://tarjma.com)** | Fast, simple online translation service | Translation |
+| **[Budokan Academy](http://budokan-academy.com)** | Sports club platform, fully dynamic no-code backoffice, news/Telegram API, real-time stats & scheduling *(non-profit judo club, not a personal business)* | Full-Stack, PHP, Automation |
 
 ---
 
@@ -82,7 +92,7 @@ A family of standalone AI-powered REST APIs and micro-SaaS tools, each shipping 
 
 ```
 15+   years of experience
-25+   active projects
+27+   active projects
 10M+  users reached
 50+   technologies mastered
 170+  currencies tracked in real-time
