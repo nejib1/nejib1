@@ -84,7 +84,7 @@ More than **50 sites and services** are built, hosted and operated on a self-man
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-portfolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-portfolio-light.svg"><img alt="Portfolio" src="assets/h-portfolio-dark.svg" width="100%"></picture>
 
-Every product below is designed, built and operated end to end. Click a category to expand it.
+Every product below is designed, built and operated end to end.
 
 <details open>
 <summary><b>AI & language APIs</b> <sub>· 7</sub></summary>
@@ -102,7 +102,7 @@ Every product below is designed, built and operated end to end. Click a category
 
 </details>
 
-<details>
+<details open>
 <summary><b>Web platforms & data</b> <sub>· 6</sub></summary>
 <br>
 
@@ -117,7 +117,7 @@ Every product below is designed, built and operated end to end. Click a category
 
 </details>
 
-<details>
+<details open>
 <summary><b>Hardware, e-commerce & services</b> <sub>· 5</sub></summary>
 <br>
 
@@ -131,7 +131,7 @@ Every product below is designed, built and operated end to end. Click a category
 
 </details>
 
-<details>
+<details open>
 <summary><b>Media & knowledge</b> <sub>· 7</sub></summary>
 <br>
 
@@ -147,7 +147,7 @@ Every product below is designed, built and operated end to end. Click a category
 
 </details>
 
-<details>
+<details open>
 <summary><b>Non-profit</b> <sub>· 1</sub></summary>
 <br>
 
