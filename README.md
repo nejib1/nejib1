@@ -20,10 +20,11 @@ Lead Data Engineer and full-stack architect with **15+ years** of experience des
 More than **50 sites and services** are built, hosted and operated on a self-managed infrastructure, with automation at every step: ingestion, enrichment, quality checks, publishing and monitoring.
 
 <table><tr>
-<td width="25%" valign="top"><b>Data engineering</b><br><sub>ETL/ELT at scale, scraping, Elasticsearch, reporting used by large audiences</sub></td>
-<td width="25%" valign="top"><b>Applied AI</b><br><sub>LLM products and APIs, fine-tuning, RAG, automated content pipelines</sub></td>
-<td width="25%" valign="top"><b>Full stack</b><br><sub>PHP, Python and JavaScript platforms, payments, back-offices, SEO</sub></td>
-<td width="25%" valign="top"><b>Connected hardware</b><br><sub>Boards, embedded firmware, MQTT, Home Assistant, cloud telemetry</sub></td>
+<td width="50%" valign="top"><b>Data engineering</b><br><sub>ETL/ELT at scale, scraping, Elasticsearch, reporting used by large audiences</sub></td>
+<td width="50%" valign="top"><b>Applied AI</b><br><sub>LLM products and APIs, fine-tuning, RAG, automated content pipelines</sub></td>
+</tr><tr>
+<td width="50%" valign="top"><b>Full stack</b><br><sub>PHP, Python and JavaScript platforms, payments, back-offices, SEO</sub></td>
+<td width="50%" valign="top"><b>Connected hardware</b><br><sub>Boards, embedded firmware, MQTT, Home Assistant, cloud telemetry</sub></td>
 </tr></table>
 
 <br>
