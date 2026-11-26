@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="22%" r="90%">
+      <stop offset="0" stop-color="#2a2114"/>
+      <stop offset=".55" stop-color="#14110c"/>
+      <stop offset="1" stop-color="#0a0907"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="150" y1="130" x2="360" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd27a"/>
+      <stop offset=".5" stop-color="#ffaa3b"/>
+      <stop offset="1" stop-color="#f07a12"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="176" y1="164" x2="336" y2="348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffaa3b"/>
+      <stop offset="1" stop-color="#ffe2a6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#ffaa3b" stroke-opacity=".10" stroke-width="2"/>
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#ffaa3b" stroke-opacity=".06" stroke-width="2" stroke-dasharray="3 9"/>
+  <g transform="translate(256 256) scale(1.14) translate(-256 -258)">
+  <!-- glow -->
+  <path d="M176 352V164L336 348V160" fill="none" stroke="#ffaa3b" stroke-opacity=".35" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <!-- pillars -->
+  <path d="M176 352V164" stroke="url(#amber)" stroke-width="46" stroke-linecap="round"/>
+  <path d="M336 348V196" stroke="url(#amber)" stroke-width="46" stroke-linecap="round"/>
+  <!-- data beam -->
+  <path d="M176 164L336 348" stroke="url(#beam)" stroke-width="30" stroke-linecap="round"/>
+  <!-- nodes -->
+  <circle cx="176" cy="164" r="30" fill="#14110c" stroke="#ffd27a" stroke-width="10"/>
+  <circle cx="176" cy="164" r="9" fill="#ffd27a"/>
+  <circle cx="336" cy="348" r="30" fill="#14110c" stroke="#ffe2a6" stroke-width="10"/>
+  <circle cx="336" cy="348" r="9" fill="#ffe2a6"/>
+  <!-- signature dot -->
+  <circle cx="336" cy="140" r="17" fill="#ffaa3b"/>
+  <circle cx="389" cy="108" r="6" fill="#ffaa3b" fill-opacity=".55"/>
+  <circle cx="414" cy="88" r="3.5" fill="#ffaa3b" fill-opacity=".3"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Nejib Ben Ahmed, Lead Data Engineer, Full Stack and AI">
+<defs><radialGradient id="mbg" cx="30%" cy="22%" r="90%"><stop offset="0" stop-color="#2a2114"/><stop offset=".55" stop-color="#14110c"/><stop offset="1" stop-color="#0a0907"/></radialGradient>
+<linearGradient id="amber" x1="150" y1="130" x2="360" y2="380" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffd27a"/><stop offset=".5" stop-color="#ffaa3b"/><stop offset="1" stop-color="#f07a12"/></linearGradient>
+<linearGradient id="beam" x1="176" y1="164" x2="336" y2="348" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffaa3b"/><stop offset="1" stop-color="#ffe2a6"/></linearGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f4ef"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#c97a10" stroke-opacity=".06"/></pattern>
+<linearGradient id="fade" x1="0" x2="1"><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="m"><rect width="1280" height="360" fill="url(#fade)"/></mask>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bgg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#grid)" mask="url(#m)"/>
+<rect x=".5" y=".5" width="1279" height="359" rx="24" fill="none" stroke="#ece4d6"/>
+<g mask="url(#m)"><line x1="930" y1="70" x2="1040" y2="128" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="1040" y1="128" x2="1160" y2="84" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="1040" y1="128" x2="990" y2="232" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="990" y1="232" x2="1110" y2="250" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="1110" y1="250" x2="1220" y2="190" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="1160" y1="84" x2="1220" y2="190" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="990" y1="232" x2="1050" y2="330" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="1110" y1="250" x2="1200" y2="320" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><line x1="1220" y1="190" x2="1200" y2="320" stroke="#c97a10" stroke-opacity=".22" stroke-width="2"/><circle cx="930" cy="70" r="10" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="1040" cy="128" r="7" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="1160" cy="84" r="7" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="990" cy="232" r="10" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="1110" cy="250" r="7" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="1220" cy="190" r="7" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="1050" cy="330" r="10" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle cx="1200" cy="320" r="7" fill="#f6f4ef" stroke="#c97a10" stroke-opacity=".55" stroke-width="3"/><circle r="5" fill="#b4620a"><animateMotion dur="5s" repeatCount="indefinite" path="M930 70L1040 128L990 232L1110 250L1220 190L1200 320"/></circle></g>
+<g transform="translate(64 70) scale(0.43)">
+  <rect width="512" height="512" rx="112" fill="url(#mbg)"/>
+  <g transform="translate(256 256) scale(1.14) translate(-256 -258)">
+  <path d="M176 352V164L336 348V160" fill="none" stroke="#ffaa3b" stroke-opacity=".35" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M176 352V164" stroke="url(#amber)" stroke-width="46" stroke-linecap="round"/>
+  <path d="M336 348V196" stroke="url(#amber)" stroke-width="46" stroke-linecap="round"/>
+  <path d="M176 164L336 348" stroke="url(#beam)" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="176" cy="164" r="30" fill="#14110c" stroke="#ffd27a" stroke-width="10"/><circle cx="176" cy="164" r="9" fill="#ffd27a"/>
+  <circle cx="336" cy="348" r="30" fill="#14110c" stroke="#ffe2a6" stroke-width="10"/><circle cx="336" cy="348" r="9" fill="#ffe2a6"/>
+  <circle cx="336" cy="140" r="17" fill="#ffaa3b"/>
+  </g></g>
+<text x="316" y="104" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" font-weight="700" letter-spacing="3" fill="#b4620a">LEAD DATA ENGINEER · FULL STACK · AI</text>
+<text x="314" y="170" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1.5" fill="#17140f">Nejib Ben Ahmed</text>
+<text x="316" y="214" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#4a4f59">Data platforms, AI products and connected hardware —</text>
+<text x="316" y="243" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#4a4f59">designed, built and run in production.</text>
+<rect x="316" y="262" width="268" height="34" rx="17" fill="#ffffff" stroke="#eadfcd"/><text x="450.0" y="284" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#4a4f59">15+ years in data engineering</text><rect x="594" y="262" width="244" height="34" rx="17" fill="#ffffff" stroke="#eadfcd"/><text x="716.0" y="284" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#4a4f59">50+ products in production</text><rect x="848" y="262" width="139" height="34" rx="17" fill="#ffffff" stroke="#eadfcd"/><text x="917.5" y="284" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#4a4f59">Paris, France</text>
+</svg>
